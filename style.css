@@ -2,6 +2,7 @@ body {
   font-family: system-ui, sans-serif;
   margin: 0;
   background: #fffbe6;
+  min-height: 100vh;
 }
 
 .wrap {
@@ -44,5 +45,6 @@ img {
   border-radius: 12px;
   border: 1px solid #eee;
 }
+
 
 
